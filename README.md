@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Devyn Benson and this is my main repo, enjoy :)
 
 <!--
 **dev-benson-03/dev-benson-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
