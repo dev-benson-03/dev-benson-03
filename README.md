@@ -36,7 +36,7 @@ Video games, algorithms, tech mentorship for under‑represented students (or me
 * **Volunteer Work:** Malcolm X Park Spring Cleanup Initiative and Back‑to‑School Co‑Ed Summer Camp.
 * **Extracurricular Interests:** Basketball, Community Mentorship, Student Advocacy, Bowling, Darts, Lifting, and Board/Card Games
 
-<a href="https://www.linkedin.com/in/devyn-benson-79854121a/">LinkedIn
+<a href="https://www.linkedin.com/in/devyn-benson/">LinkedIn
 
 <a href="https://github.com/dev-benson-03">Github
 
