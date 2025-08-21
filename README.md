@@ -45,6 +45,6 @@ Video games, algorithms, tech mentorship for under‑represented students (or me
 <a href="https://www.instagram.com/_devyn.b_/">My IG
 
 
-<a href="https://www.instagram.com/p/DM5uFfSsyyB/"><img src="File1.jpg" height=400 /></a>
-<a href="https://www.instagram.com/p/DM5tkAMpPDJ/"><img src="File2.jpg" height=400 /></a>
-<a href="https://www.instagram.com/p/DM5svzfS8Lg/"><img src="File3.jpg" height=400 /></a>
+<a href="https://www.instagram.com/p/DM5uIFssy8p/"><img src="File1.jpg" height=400 /></a>
+<a href="https://www.instagram.com/p/DM5tkxaMPdU/"><img src="File2.jpg" height=400 /></a>
+<a href="https://www.instagram.com/p/DM5svzfs8Lg/"><img src="File3.jpg" height=400 /></a>
