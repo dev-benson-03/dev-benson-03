@@ -9,7 +9,7 @@ I prefer email for quick questions and routine updates. If your message requires
 ### I’d love to help you with …
 Thanks to my Computer Science coursework and professional experience, I’m excited about:
 
-- **Building and refining full‑stack systems** using Rust, Python, C, JavaScript, and other languages.
+- **Building and refining full‑stack systems** using Rust, Python, C, JavaScript, Java and other languages.
 - **Developing automated tests and human‑centered API documentation**.
 - **Planning and executing events**, from brainstorming and budgeting to volunteer coordination and partnership outreach.
 - **Mentoring others on leadership, communication skills and academic success**.
