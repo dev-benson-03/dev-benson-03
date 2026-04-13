@@ -4,7 +4,7 @@
 I typically start my days with course work, training, or watching videos/podcasts, whether that's a morning/evening workout, diving into more knowledge in tech, or staying up to date with NBA/NFL/NCAAF/NCAAM. My working hours for technical tasks are usually **9:00 AM–5:00 PM ET**, I'm most responsive to email (**bensondevyn@gmail.com**). Early mornings and late evenings are often filled with classes, working (lifting or grinding on the computer), hanging with friends, and spending time with family. When I'm on break or if something urgent comes up outside of these windows, reach out and I'll respond as quickly as I can.
 
 ### What’s the best way to communicate with me?
-I prefer email for quick questions and routine updates. If your message requires detailed context or attachments, please don't hesistat to send me an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats — they help build understanding and camaraderie. If I don’t get back to you right away, a follow‑up email or Slack ping is absolutely fine; when I'm travelling, working, or networking at events, notifications can slip through.
+I prefer email for quick questions and routine updates. If your message requires detailed context or attachments, please don't hesistat to send me an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats — they help build understanding and camaraderie. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine; when I'm travelling, working, or networking at events, notifications can slip through.
 
 ### I’d love to help you with …
 Thanks to my Computer Science coursework and professional experience, I’m excited about:
@@ -17,10 +17,10 @@ Thanks to my Computer Science coursework and professional experience, I’m exci
 ### What makes me grumpy?
 Ambiguity and disorganization. I thrive on clear goals and well‑structured meetings; repeated indecision or last‑minute changes make work harder for everyone. I also believe in being on time — whether that's a meeting, a deadline, or a basketball game (I used to be an athlete 🏀)
 ### How do I like to give feedback?
-For big‑picture topics like project direction or career growth, I prefer to talk face‑to‑face or via video to ensure we’re on the same page. Smaller items often get captured in comments or quick Slack messages, and I try to document to‑dos in shared project tools so they don’t get lost. Celebrating wins is important, so expect to hear from me when things go well!
+For big‑picture topics like project direction or career growth, I prefer to talk face‑to‑face or via video to ensure we’re on the same page. Smaller items often get captured in comments or quick Discord messages, and I try to document to‑dos in shared project tools so they don’t get lost. Celebrating wins is important, so expect to hear from me when things go well!
 
 ### How do I like to receive feedback?
-Anytime, in any format. Slack or email are totally fine if that’s most comfortable, and written feedback is helpful for me to refer back to later. I appreciate honesty and timeliness; addressing issues early helps me improve and keeps projects running smoothly.
+Anytime, in any format. Discord or email are totally fine if that’s most comfortable, and written feedback is helpful for me to refer back to later. I appreciate honesty and timeliness; addressing issues early helps me improve and keeps projects running smoothly.
 
 ### One of my goals for the coming year:
 I'm heading into life post graduation, so now after completing my Computer Science BA, I intend on deepening my expertise in software engineering , growing my network, and continuing to break through the tech industry. As I am in this transition I continue to seek a full‑time tech engineering role or data analytics role after graduation.
