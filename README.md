@@ -73,7 +73,7 @@ I try to give feedback with clarity, respect, and a focus on the work rather tha
 #### Topics I’m always happy to talk about:
 Video games, algorithms, tech mentorship for under‑represented students (or mentorship for men and women of color), community engagement, sports strategy and analytics, and full‑stack development best practices.
 
-<a href="https://www.linkedin.com/in/devyn-benson/">LinkedIn
+<a href="https://www.linkedin.com/in/devyn-benson/">LinkedIn</a>
 
 <a href="https://github.com/dev-benson-03">GitHub</a>
 
