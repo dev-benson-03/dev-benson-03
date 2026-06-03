@@ -57,24 +57,22 @@ Safety-focused application project exploring user-facing workflows, system logic
 
 I care about using technology to solve real problems for real people. My work in healthcare SaaS and mentorship through Brothers@ shaped how I think about trust, access, communication, and impact. I bring that same mindset into technical work: listen first, repeat the question, understand the system, ask clarifying questions, solve clearly, and keep improving.
 * **Volunteer Work:** Malcolm X Park Spring Cleanup Initiative and Back‑to‑School Co‑Ed Summer Camp.
-* **Extracurricular Interests:** Basketball, Community Mentorship, Student Advocacy, Bowling, Darts, Lifting, and Board/Card Games
+* **Extracurricular Interests:** Sports (NBA/NFL/NCAAF/NCAAM), Community Mentorship, Student Advocacy, Bowling, Darts, Lifting, Board/Card Games, and Watching Videos/Podcasts
 
-#### My work hours:
-I typically start my days with reading, training (whether that's a morning workout of the mind or body), watching videos/podcasts, diving into more knowledge in tech, or staying up to date with NBA/NFL/NCAAF/NCAAM. My working hours for technical tasks are usually **9:00 AM–5:00 PM ET**, I'm most responsive to email (**bensondevyn@gmail.com**). Late evenings are often filled with learning, lifting or grinding on the computer, hanging with friends, and spending time with family. When I'm on break or if something urgent comes up outside of these windows, reach out and I'll respond as quickly as I can.
 
 #### What’s the best way to communicate with me?
-I prefer email for quick questions and routine updates. If your message requires detailed context or attachments, please don't hesistat to send me an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats — they help build understanding and camaraderie. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine; when I'm travelling, working, or networking at events, notifications can slip through.
+I prefer email for quick questions and routine updates, I'm most responsive to my personal email (**bensondevyn@gmail.com**). If your message requires detailed context or attachments, please don't hesistate to send me that in an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats (Teams, Zoom, Google Meet, etc) — they help build understanding and it's always nice to say thank you face to face. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine (when I'm travelling, working, or networking at events, notifications can slip through).
 
 
-#### How do I like to give feedback?
-For big‑picture topics like project direction or career growth, I prefer to talk face‑to‑face or via video to ensure we’re on the same page. Smaller items often get captured in comments or quick Discord messages, and I try to document to‑dos in shared project tools so they don’t get lost. Celebrating wins is important, so expect to hear from me when things go well!
+#### Feedback style
 
-#### How do I like to receive feedback?
-Anytime, in any format. Discord or email are totally fine if that’s most comfortable, and written feedback is helpful for me to refer back to later. I appreciate transparency and timeliness; addressing issues early helps me improve and keeps projects running smoothly.
+I value transparency and honest feedback in both directions. For bigger conversations like project direction, team dynamics, or career growth, I prefer face-to-face or video so context does not get lost. For smaller implementation details, I’m comfortable using written comments, Discord, email, or project tools to keep decisions and follow-ups documented.
+
+I try to give feedback with clarity, respect, and a focus on the work rather than the person. I also appreciate direct feedback early, especially when it helps me improve the product, communicate better, or support the team more effectively. Early communication always helps me improve and keeps projects running smoothly.
 
 
 #### Topics I’m always happy to talk about:
-Video games, algorithms, tech mentorship for under‑represented students (or mentorship for men and womeen of color), community engagement, sports strategy and analytics, and full‑stack development best practices.
+Video games, algorithms, tech mentorship for under‑represented students (or mentorship for men and women of color), community engagement, sports strategy and analytics, and full‑stack development best practices.
 
 <a href="https://www.linkedin.com/in/devyn-benson/">LinkedIn
 
