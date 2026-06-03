@@ -44,7 +44,7 @@ Safety-focused application project exploring user-facing workflows, system logic
 
 ### Background
 
-* **Major/Degree & College:** B.A. Computer Science, Vassar College.
+**Major/Degree & College:** B.A. Computer Science, Vassar College.
 * Implementation Specialist, InvisALERT Solutions
 * Lead Systems & AI Automation Extern, Innova Solutions 
 * AI-Powered Full-Stack Software Engineering Bootcamp, Code Differently
