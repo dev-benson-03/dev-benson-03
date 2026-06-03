@@ -1,40 +1,80 @@
 ## Devyn Benson
+Computer Science graduate and technical implementation professional focused on API integrations, SaaS deployments, production troubleshooting, and AI-enabled applications.
 
-### My work hours:
-I typically start my days with course work, training, or watching videos/podcasts, whether that's a morning/evening workout, diving into more knowledge in tech, or staying up to date with NBA/NFL/NCAAF/NCAAM. My working hours for technical tasks are usually **9:00 AM–5:00 PM ET**, I'm most responsive to email (**bensondevyn@gmail.com**). Early mornings and late evenings are often filled with classes, working (lifting or grinding on the computer), hanging with friends, and spending time with family. When I'm on break or if something urgent comes up outside of these windows, reach out and I'll respond as quickly as I can.
+I currently work in healthcare SaaS implementation, where I support live clinical deployments, troubleshoot authentication and configuration issues, and help translate operational workflows into reliable technical solutions. My background combines software engineering, customer-facing problem solving, technical documentation, and systems thinking.
 
-### What’s the best way to communicate with me?
-I prefer email for quick questions and routine updates. If your message requires detailed context or attachments, please don't hesistat to send me an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats — they help build understanding and camaraderie. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine; when I'm travelling, working, or networking at events, notifications can slip through.
+### What I’m focused on
 
-### I’d love to help you with …
-Thanks to my Computer Science coursework and professional experience, I’m excited about:
+- Building full-stack applications with TypeScript, React, Node.js, Firebase, and Java
+- Supporting API integrations, authentication workflows, and production issue resolution
+- Exploring AI-enabled workflows using OpenAI APIs and structured outputs
+- Improving technical documentation, testing, and implementation readiness
+- Growing at the intersection of technical solutions, customer impact, and applied AI
 
-- **Building and refining full‑stack systems** using Rust, Python, C, JavaScript, Java and other languages.
-- **Developing automated tests and human‑centered API documentation**.
-- **Planning and executing events**, from brainstorming and budgeting to volunteer coordination and partnership outreach.
-- **Mentoring others on leadership, communication skills and academic success**.
+### Featured projects
 
-### What makes me grumpy?
-Ambiguity and disorganization. I thrive on clear goals and well‑structured meetings; repeated indecision or last‑minute changes make work harder for everyone. I also believe in being on time — whether that's a meeting, a deadline, or a basketball game (I used to be an athlete 🏀)
-### How do I like to give feedback?
-For big‑picture topics like project direction or career growth, I prefer to talk face‑to‑face or via video to ensure we’re on the same page. Smaller items often get captured in comments or quick Discord messages, and I try to document to‑dos in shared project tools so they don’t get lost. Celebrating wins is important, so expect to hear from me when things go well!
+#### DevTalk: AI Forum Voting App
+Full-stack AI forum platform where users create forums, submit responses, vote on ideas, and view AI-generated summaries and action roadmaps after discussions close.
 
-### How do I like to receive feedback?
-Anytime, in any format. Discord or email are totally fine if that’s most comfortable, and written feedback is helpful for me to refer back to later. I appreciate honesty and timeliness; addressing issues early helps me improve and keeps projects running smoothly.
+**Tech:** React, TypeScript, React Router, Firebase, OpenAI API, Jest, Testing Library, Vercel  
+**Focus:** AI workflow integration, Firebase-connected front-end workflows, forum/message testing, and usability improvements  
+**Repo:** https://github.com/dev-benson-03/devtalk-ai-forum
 
-### One of my goals for the coming year:
-I'm heading into life post graduation, so now after completing my Computer Science BA, I intend on deepening my expertise in software engineering , growing my network, and continuing to break through the tech industry. As I am in this transition I continue to seek a full‑time tech engineering role or data analytics role after graduation.
+#### GitQuest: Interactive CLI App
+Java command-line learning tool that teaches Git fundamentals through guided modules, glossary lookup, progress tracking, and achievement badges.
 
-### Topics I’m always happy to talk about:
-Video games, algorithms, tech mentorship for under‑represented students (or mentorship for men and womeen of color), community engagement, sports strategy and analytics, and full‑stack development best practices.
+**Tech:** Java, Gradle  
+**Focus:** CLI user flow, learning progression, object-oriented design, and user-facing feedback
 
-### Other things you might want to know:
+#### SafetySignal
+Safety-focused application project exploring user-facing workflows, system logic, and clear communication around safety-related events.
 
-* **Major & Graduation:** Computer Science, expected May 2025.
+**Focus:** Workflow design, technical implementation, and user-centered problem solving
+
+
+### Technical skills
+
+**Languages:** Java, Python, JavaScript, TypeScript, Rust, C/C++  
+**Frontend:** React, Next.js, HTML/CSS, TailwindCSS  
+**Backend & APIs:** Node.js, REST APIs, Firebase, Django exposure  
+**Cloud & Systems:** AWS, Google Cloud Platform, Rocky Linux 9, CloudWatch, Xymon Monitoring  
+**Practices:** Automated Testing, Technical Documentation, Troubleshooting, Agile, Git/GitHub
+
+
+
+### Background
+
+* **Major/Degree & College:** B.A. Computer Science, Vassar College.
+* Implementation Specialist, InvisALERT Solutions
+* Lead Systems & AI Automation Extern, Innova Solutions 
+* AI-Powered Full-Stack Software Engineering Bootcamp, Code Differently
+* Software Engineer Intern, Sideko/Port of Context
+* Leadership and Facilitation Fellow, Brothersat (Brothers@, mentoring program)
+* Captain of the Men’s Basketball Team, Vassar College
 * **Technical Skills:** Rust, Python, JavaScript, Java, C, C++, Google Cloud Platform, APIs, R and HTML.
-* **Leadership & Service:** Assistant Director of Senior Events at Vassar, Leadership and Facilitation Fellow with Brothers@ mentoring program, and Captain of the Men’s Basketball Team.
+
+### Beyond code
+
+I care about using technology to solve real problems for real people. My work in healthcare SaaS and mentorship through Brothers@ shaped how I think about trust, access, communication, and impact. I bring that same mindset into technical work: listen first, repeat the question, understand the system, ask clarifying questions, solve clearly, and keep improving.
 * **Volunteer Work:** Malcolm X Park Spring Cleanup Initiative and Back‑to‑School Co‑Ed Summer Camp.
 * **Extracurricular Interests:** Basketball, Community Mentorship, Student Advocacy, Bowling, Darts, Lifting, and Board/Card Games
+
+#### My work hours:
+I typically start my days with reading, training (whether that's a morning workout of the mind or body), watching videos/podcasts, diving into more knowledge in tech, or staying up to date with NBA/NFL/NCAAF/NCAAM. My working hours for technical tasks are usually **9:00 AM–5:00 PM ET**, I'm most responsive to email (**bensondevyn@gmail.com**). Late evenings are often filled with learning, lifting or grinding on the computer, hanging with friends, and spending time with family. When I'm on break or if something urgent comes up outside of these windows, reach out and I'll respond as quickly as I can.
+
+#### What’s the best way to communicate with me?
+I prefer email for quick questions and routine updates. If your message requires detailed context or attachments, please don't hesistat to send me an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats — they help build understanding and camaraderie. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine; when I'm travelling, working, or networking at events, notifications can slip through.
+
+
+#### How do I like to give feedback?
+For big‑picture topics like project direction or career growth, I prefer to talk face‑to‑face or via video to ensure we’re on the same page. Smaller items often get captured in comments or quick Discord messages, and I try to document to‑dos in shared project tools so they don’t get lost. Celebrating wins is important, so expect to hear from me when things go well!
+
+#### How do I like to receive feedback?
+Anytime, in any format. Discord or email are totally fine if that’s most comfortable, and written feedback is helpful for me to refer back to later. I appreciate transparency and timeliness; addressing issues early helps me improve and keeps projects running smoothly.
+
+
+#### Topics I’m always happy to talk about:
+Video games, algorithms, tech mentorship for under‑represented students (or mentorship for men and womeen of color), community engagement, sports strategy and analytics, and full‑stack development best practices.
 
 <a href="https://www.linkedin.com/in/devyn-benson/">LinkedIn
 
