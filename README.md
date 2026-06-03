@@ -80,8 +80,11 @@ Video games, algorithms, tech mentorship for under‑represented students (or me
 <a href="https://app.joinhandshake.com/profiles/nxqchh"> Handshake
 
 <a href="https://www.observsmart.com/">ObservSMART
+
 <a href="https://innovasolutions.com/">Innova Solutions
+
 <a href="https://brothersat.org/">Brothers@
+
 <a href="https://sideko.dev/">Sideko
 
 <a href="https://www.linkedin.com/in/devyn-benson/"><img src="File1.jpg" height=400 /></a>
