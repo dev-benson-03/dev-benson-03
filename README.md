@@ -49,9 +49,8 @@ Safety-focused application project exploring user-facing workflows, system logic
 * Lead Systems & AI Automation Extern, Innova Solutions 
 * AI-Powered Full-Stack Software Engineering Bootcamp, Code Differently
 * Software Engineer Intern, Sideko/Port of Context
-* Leadership and Facilitation Fellow, Brothersat (Brothers@, mentoring program)
+* Leadership and Facilitation Fellow, Brothers@ (mentoring program)
 * Captain of the Men’s Basketball Team, Vassar College
-* **Technical Skills:** Rust, Python, JavaScript, Java, C, C++, Google Cloud Platform, APIs, R and HTML.
 
 ### Beyond code
 
@@ -61,7 +60,7 @@ I care about using technology to solve real problems for real people. My work in
 
 
 #### What’s the best way to communicate with me?
-I prefer email for quick questions and routine updates, I'm most responsive to my personal email (**bensondevyn@gmail.com**). If your message requires detailed context or attachments, please don't hesistate to send me that in an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats (Teams, Zoom, Google Meet, etc) — they help build understanding and it's always nice to say thank you face to face. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine (when I'm travelling, working, or networking at events, notifications can slip through).
+I prefer email for quick questions and routine updates, I'm most responsive to my personal email (**bensondevyn@gmail.com**). If your message requires detailed context or attachments, please don't hesitate to send me that in an email and I'll make time to respond thoughtfully. For brainstorming or complex discussions, I’m a big fan of in‑person or video chats (Teams, Zoom, Google Meet, etc) — they help build understanding and it's always nice to say thank you face to face. If I don’t get back to you right away, a follow‑up email or Discord chat is absolutely fine (when I'm travelling, working, or networking at events, notifications can slip through).
 
 
 #### Feedback style
@@ -80,7 +79,10 @@ Video games, algorithms, tech mentorship for under‑represented students (or me
 
 <a href="https://app.joinhandshake.com/profiles/nxqchh"> Handshake
 
-
+<a href="https://www.observsmart.com/">ObservSMART
+<a href="https://innovasolutions.com/">Innova Solutions
+<a href="https://brothersat.org/">Brothers@
+<a href="https://sideko.dev/">Sideko
 
 <a href="https://www.linkedin.com/in/devyn-benson/"><img src="File1.jpg" height=400 /></a>
 <a href="https://www.linkedin.com/in/devyn-benson/"><img src="File2.jpg" height=400 /></a>
